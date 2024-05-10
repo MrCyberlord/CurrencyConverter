@@ -1,0 +1,7 @@
+.inputBoxHoverEffect {
+    transition: transform 0.3s ease;
+}
+
+.inputBoxHoverEffect:hover {
+    transform: scale(1.05);
+}
